@@ -1,0 +1,44 @@
+Project Folder/
+├─ build/
+├─ src/
+├─ Carla_images/
+│  ├─ testcase_01.png
+│  ├─ testcase_02.png
+│  ├─ ...
+├─ Kitti_images/
+│  ├─ testcase_01/
+│  │  ├─ image_00/
+│  │  │  ├─ data/
+│  │  │  │  ├─ 0000000000.png
+│  │  │  │  ├─ 0000000001.png
+│  │  │  │  ├─ ...
+│  │  │  ├─ timestamps.txt
+│  │  ├─ image_01/
+│  │  │  ├─ data/
+│  │  │  │  ├─ 0000000000.png
+│  │  │  │  ├─ 0000000001.png
+│  │  │  │  ├─ ...
+│  │  │  ├─ timestamps.txt
+│  │  ├─ image_02/
+│  │  │  ├─ data/
+│  │  │  │  ├─ 0000000000.png
+│  │  │  │  ├─ 0000000001.png
+│  │  │  │  ├─ ...
+│  │  │  ├─ timestamps.txt
+│  │  ├─ image_02/
+│  │  │  ├─ data/
+│  │  │  │  ├─ 0000000000.png
+│  │  │  │  ├─ 0000000001.png
+│  │  │  │  ├─ ...
+│  │  │  ├─ timestamps.txt
+│  ├─ .../
+├─ Lidar/
+│  ├─ pointcloud_00400_.bin
+│  ├─ pointcloud_00401_.bin
+│  ├─ ...
+├─ prototype/
+│  ├─ car_00064_2257.bin
+│  ├─ pedestrian_00231_1938.bin
+│  ├─ ...
+├─ CMakeLists.txt
+
